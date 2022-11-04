@@ -3,38 +3,6 @@
 480 - 768
 all - 480
 */
-@media all and (min-width: 1280px) and (max-width: 1366px) {
-    body{
-        margin: auto;
-    }
-    img{
-        max-width: 1280px;
-        position: relative;
-    }
-    .container{
-        max-width: 1280px;
-        margin: 0 auto;
-        background-color: red;
-        text-align: center;
-    }
-    .first-screen span{
-        background-color: blue;
-        position: absolute;
-        top: 127px;
-        left: 397px;
-        width: 488px;
-        height: 115px;
-        
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 42px;
-        text-align: center;
-        letter-spacing: 0.02em;
-        text-transform: uppercase;
-        color: #FFFFFF;
-    }
-} 
 @media all and (min-width: 1024px) and (max-width: 1280px) {
     body{
         margin: auto;
@@ -137,7 +105,7 @@ all - 480
     }
     img{
         max-width: 480px;
-        position: relative
+        position: relative;
     }
     .container{
         max-width: 480px;
