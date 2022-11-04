@@ -137,7 +137,7 @@ all - 480
     }
     img{
         max-width: 480px;
-        position: relative;
+        position: relative
     }
     .container{
         max-width: 480px;
@@ -148,15 +148,15 @@ all - 480
     .first-screen span{
         background-color:darkorange;
         position: absolute;
-        top: 75px;
-        left: 237px;
-        width: 293px;
-        height: 69px;
+        top: 47px;
+        left: 148px;
+        width: 184px;
+        height: 44px;
         
         font-family: 'Oswald';
         font-style: normal;
         font-weight: 500;
-        font-size: 25.5px;
+        font-size: 16px;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: uppercase;
